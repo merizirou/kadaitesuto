@@ -1,0 +1,187 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+}
+header{
+text-align:center;
+background: white;
+padding: 30px;
+}
+header h1{
+    font-size:40px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.EFTrogo-box img{
+    width: 100%;
+}
+.one{
+    text-align: center;
+    background: white;
+    padding: 30px 20px;
+}
+.one h2{
+    font-size: 34px;
+    padding-bottom: 20px;
+}
+.two{
+    text-align: center;
+    background: white;
+    padding: 30px;
+    color:black;
+}
+.two h2{
+    font-size: 34px;
+    padding-bottom:20px ;
+}
+.two p{
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    background: black;
+    color: aliceblue;
+}
+
+.weapon{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+h3{
+    background-color:aqua;
+    border-radius: 1em;
+    width: 20%;
+    padding-left: 8px;
+    height: 30px;
+    font-size: 18px;
+}
+.MPX{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+h4{
+    background-color:aqua;
+    border-radius: 1em;
+    width: 20%;
+    padding-left: 8px;
+    height: 30px;
+    font-size: 18px;
+}
+.Vector{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+h5{
+    background-color:aqua;
+    border-radius: 1em;
+    width: 20%;
+    padding-left: 8px;
+    height: 30px;
+    font-size: 18px;
+}
+.STM-9{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+h6{
+    background-color:aqua;
+    border-radius: 1em;
+    width: 20%;
+    padding-left: 8px;
+    height: 30px;
+    font-size: 18px;
+}
+.RPK{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.AK-74N{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.AK-545{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.M4A1{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.HK{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.TX{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.M1A{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.T-5000M{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+.SA-58{
+    float: left;
+    border-radius: 2em;
+    width: 100%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
